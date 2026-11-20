@@ -1,0 +1,2 @@
+Hi,my name is pruthvi.
+This is my first Git project.
